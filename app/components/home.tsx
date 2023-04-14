@@ -120,6 +120,8 @@ export function Home() {
           </div>
         </div>
 
+        <div>come on click blow</div>
+
         <div
           className={styles["sidebar-body"]}
           onClick={() => {
